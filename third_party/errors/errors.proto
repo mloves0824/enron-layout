@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package errors;
 
-option go_package = "github.com/mloves0824/enron/errors;errors";
+option go_package = "github.com/mloves0824/enron-go/errors;errors";
 option java_multiple_files = true;
 option java_package = "com.github.enron.errors";
 option objc_class_prefix = "EnronErrors";
