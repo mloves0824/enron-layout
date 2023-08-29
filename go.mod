@@ -3,7 +3,7 @@ module github.com/mloves0824/enron-layout
 go 1.19
 
 require (
-	github.com/mloves0824/enron v2.7.0
+	github.com/mloves0824/enron-go v1.0.0
 	github.com/google/wire v0.5.0
 	go.uber.org/automaxprocs v1.5.1
 	google.golang.org/genproto/googleapis/api v0.0.0-20230629202037-9506855d4529
