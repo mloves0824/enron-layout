@@ -5,9 +5,9 @@ import (
 	"github.com/mloves0824/enron-layout/internal/conf"
 	"github.com/mloves0824/enron-layout/internal/service"
 
-	"github.com/mloves0824/enron-go/log"
-	"github.com/mloves0824/enron-go/middleware/recovery"
-	"github.com/mloves0824/enron-go/transport/http"
+	"/log"
+	"/middleware/recovery"
+	"/transport/http"
 )
 
 // NewHTTPServer new an HTTP server.

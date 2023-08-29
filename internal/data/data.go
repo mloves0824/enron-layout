@@ -3,7 +3,7 @@ package data
 import (
 	"github.com/mloves0824/enron-layout/internal/conf"
 
-	"github.com/mloves0824/enron-go/log"
+	"/log"
 	"github.com/google/wire"
 )
 

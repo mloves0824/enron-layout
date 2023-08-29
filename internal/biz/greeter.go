@@ -5,8 +5,8 @@ import (
 
 	v1 "github.com/mloves0824/enron-layout/api/helloworld/v1"
 
-	"github.com/mloves0824/enron-go/errors"
-	"github.com/mloves0824/enron-go/log"
+	"/errors"
+	"/log"
 )
 
 var (

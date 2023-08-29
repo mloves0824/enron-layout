@@ -5,7 +5,7 @@ import (
 
 	"github.com/mloves0824/enron-layout/internal/biz"
 
-	"github.com/mloves0824/enron-go/log"
+	"/log"
 )
 
 type greeterRepo struct {

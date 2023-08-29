@@ -2,7 +2,7 @@
 
 ## Install Enron
 ```
-go install github.com/mloves0824/enron-go/cmd/enron@latest
+go install /cmd/enron@latest
 ```
 ## Create a service
 ```

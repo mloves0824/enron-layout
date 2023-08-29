@@ -6,13 +6,13 @@ import (
 
 	"github.com/mloves0824/enron-layout/internal/conf"
 
-	"github.com/mloves0824/enron-go"
-	"github.com/mloves0824/enron-go/config"
-	"github.com/mloves0824/enron-go/config/file"
-	"github.com/mloves0824/enron-go/log"
-	"github.com/mloves0824/enron-go/middleware/tracing"
-	"github.com/mloves0824/enron-go/transport/grpc"
-	"github.com/mloves0824/enron-go/transport/http"
+	""
+	"/config"
+	"/config/file"
+	"/log"
+	"/middleware/tracing"
+	"/transport/grpc"
+	"/transport/http"
 
 	_ "go.uber.org/automaxprocs"
 )
