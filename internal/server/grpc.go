@@ -5,9 +5,9 @@ import (
 	"github.com/mloves0824/enron-layout/internal/conf"
 	"github.com/mloves0824/enron-layout/internal/service"
 
-	"/log"
-	"/middleware/recovery"
-	"/transport/grpc"
+	"github.com/mloves0824/enron/log"
+	"github.com/mloves0824/enron/middleware/recovery"
+	"github.com/mloves0824/enron/transport/grpc"
 )
 
 // NewGRPCServer new a gRPC server.

@@ -3,8 +3,8 @@ package data
 import (
 	"github.com/mloves0824/enron-layout/internal/conf"
 
-	"/log"
 	"github.com/google/wire"
+	"github.com/mloves0824/enron/log"
 )
 
 // ProviderSet is data providers.

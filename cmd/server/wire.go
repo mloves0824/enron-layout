@@ -12,9 +12,10 @@ import (
 	"github.com/mloves0824/enron-layout/internal/server"
 	"github.com/mloves0824/enron-layout/internal/service"
 
-	""
-	"/log"
+	"github.com/mloves0824/enron/log"
+
 	"github.com/google/wire"
+	"github.com/mloves0824/enron"
 )
 
 // wireApp init enron application.
